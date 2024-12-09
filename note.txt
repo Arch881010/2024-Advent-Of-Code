@@ -1,0 +1,3 @@
+Hello, world!
+
+I started to change how I wrote code after day 2 because it was incredibly messy.
